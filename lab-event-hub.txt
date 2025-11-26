@@ -1,0 +1,51 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+ <body>
+  <header>
+      <h1>Event Hub</h1>
+      <nav>
+          <ul><li><a href="#upcoming-events">Upcoming Events</a></li>
+              <li><a href="#past-events">Past Events</a></li>
+          </ul>    
+      </nav>
+   </header>
+   <main>
+       <section id="upcoming-events">
+         <h2>Upcoming Events</h2>
+         
+           <article>
+               <h3>Regular Category</h3>
+               <p>This year our theame is about ai.Robots have to find a way to complete the missions.<br>Date: <time datetime="2026-03-12T9:30">March 12 9:30, 2026</p>               
+           </article>
+           <article>       
+               <h3>Open Category</h3>
+               <p>kids have to make a project about artificial inteligence and how it works in our lives using microbit, arduino and similar systems.<br>Date: 
+<time datetime=2026-03-12T13:30>March 12 15:30, 2026</p>
+           </article>
+       </section>
+       <section id="past-events">
+           <h2>Past Events</h2>
+           
+           <article>
+               <h3>Regular Category-Mars</h3>
+               <p>The contestans had to compete a missions based in mars in the given track.</p>
+               <img src="https://stem.edu.gr/wp-content/uploads/2024/10/unnamed-3-300x300.png" alt="banner">
+            </article>
+            <article>
+                <h3>Open Category-Mars</h3>
+                   <p>The teams missions was to make a project releated with mars using microbit.</p>
+                <img src="https://stem.edu.gr/wp-content/uploads/2024/10/%CE%9F%CE%B9-%CE%B1%CF%80%CE%BB%CE%AD%CF%82-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%AD%CF%82-%CE%B5%CE%BD%CF%8E%CE%BD%CE%BF%CF%85%CE%BD-%CF%84%CE%B7-%CE%9C%CE%B5%CF%83%CF%8C%CE%B3%CE%B5%CE%B9%CE%BF2_social-media--300x300.png" alt="open-banner">
+       </article>
+       </section>           
+</body>
+</html>
+
+** end of index.html **
+
